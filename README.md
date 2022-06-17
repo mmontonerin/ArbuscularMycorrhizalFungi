@@ -1,4 +1,4 @@
-# *De novo* assembly project on Arbuscular Mycorrhizal Fungi
+# *De novo* genome assembly project on Arbuscular Mycorrhizal Fungi
 De novo assembly pipelines, assembly check and further analyses on the fungi Arbuscular Mycorrhizae
 
 ### These pipelines and methods have resulted in the publication of the following papers
